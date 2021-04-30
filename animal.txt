@@ -1,0 +1,3 @@
+111|cat|4|asd adafaw|5.0
+222|dog|4|sad egfrsga afa|10.0
+333|snake|1|asd afafa|3.0
