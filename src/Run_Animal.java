@@ -12,7 +12,7 @@
 public class Run_Animal {
     public static void main(String[] args) {
         Menu menu=new Menu();
-        
+        System.out.println("TEST TEST ETS");
         String filename="animal.txt";
         menu.addItem("Load data from file");
         menu.addItem("Add new animal");
